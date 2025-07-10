@@ -1,6 +1,6 @@
 # 🎧 Tugas T04 - Pengolahan Sinyal Suara
 
-Repositori ini merupakan bagian dari tugas individu T04 yang bertujuan untuk menerapkan operasi dasar pada sinyal suara menggunakan Python dan pustaka Librosa.
+Tugas individu T04 yang bertujuan untuk menerapkan operasi dasar pada sinyal suara menggunakan Python dan pustaka Librosa.
 
 ## 📁 File Audio
 
@@ -31,9 +31,9 @@ Visualisasi dilakukan menggunakan `matplotlib` untuk:
 - Waveform sebelum dan sesudah proses
 - Spektrogram hasil STFT
 
-<gambar 1: (image-1.png)>
-<gambar 2: (image-2.png)>
-<gambar 3: (image-3.png)>  
+<gambar 1: waveform asli>  
+<gambar 2: waveform normalisasi>  
+<gambar 3: spektrogram>  
 
 
 ## 🔧 Tools yang Digunakan
