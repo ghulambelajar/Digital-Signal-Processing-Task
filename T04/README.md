@@ -31,9 +31,9 @@ Visualisasi dilakukan menggunakan `matplotlib` untuk:
 - Waveform sebelum dan sesudah proses
 - Spektrogram hasil STFT
 
-<gambar 1: waveform asli>  
-<gambar 2: waveform normalisasi>  
-<gambar 3: spektrogram>  
+![Waveform Asli](/kaggle/input/experiment-bird-song/Visualisasi/Screenshot 2025-07-10 123707.png)
+![Waveform Normalisasi](/kaggle/input/experiment-bird-song/Visualisasi/Screenshot 2025-07-10 123743.png)
+![Spectrogram](/kaggle/input/experiment-bird-song/Visualisasi/Screenshot 2025-07-10 123806.png)
 
 
 ## 🔧 Tools yang Digunakan
