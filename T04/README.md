@@ -31,9 +31,9 @@ Visualisasi dilakukan menggunakan `matplotlib` untuk:
 - Waveform sebelum dan sesudah proses
 - Spektrogram hasil STFT
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)  
+<gambar 1: (image-1.png)>
+<gambar 2: (image-2.png)>
+<gambar 3: (image-3.png)>  
 
 
 ## 🔧 Tools yang Digunakan
