@@ -64,9 +64,9 @@ Visualisasi dilakukan menggunakan `matplotlib` untuk:
 - Waveform sebelum dan sesudah proses
 - Spektrogram hasil STFT
 
-![Waveform_Asli](/kaggle/input/experiment-bird-song/Visualisasi/Screenshot 2025-07-10 123707.png)
-![Waveform_Normalisasi](/kaggle/input/experiment-bird-song/Visualisasi/Screenshot 2025-07-10 123743.png)
-![Spectrogram](/kaggle/input/experiment-bird-song/Visualisasi/Screenshot 2025-07-10 123806.png)
+![Waveform Asli](/kaggle/input/experiment-bird-song/images/waveframeAsli.png)
+![Waveform Normalisasi](/kaggle/input/experiment-bird-song/images/afternormalisasi.png)
+![Spectrogram](/kaggle/input/experiment-bird-song/images/spectrogram.png)
 
 
 ## 🔧 Tools yang Digunakan
